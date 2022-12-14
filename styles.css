@@ -1,0 +1,42 @@
+.c1{
+   height: 25%;
+   width: 80%;
+   border-radius: 500px;
+   margin: 20px;
+ 
+   
+}
+#d1{
+    background-color: rgb(32, 31, 31);
+    color: white;
+     padding: 10px;
+     font-size: 20px;
+     margin: auto;
+}
+.container1{
+    width: 300px;
+    height: 1000px;
+    background-color: rgb(235, 226, 226);
+    border: 1px solid rgb(240, 230, 230);
+}
+.container2{
+    margin-top: -1002px;
+    margin-left: 300px;
+    width: 500px;
+    height: 1000px;
+    background-color: rgb(241, 240, 240);
+    border: 1px solid rgb(223, 210, 210);
+}
+.main{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin-left: 50px;
+  
+}
+h1{
+    font-size: 50px;
+    margin-left: 50px;
+}
+.file{
+    margin-left: 20%;
+}
